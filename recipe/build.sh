@@ -2,4 +2,4 @@
 
 export UMFPACK="${PREFIX}/lib"
 
-$PYTHON -m pip install . -vv
+$PYTHON -m pip install . -vv --no-build-isolation --no-deps
