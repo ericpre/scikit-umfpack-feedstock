@@ -23,6 +23,7 @@ requirements:
   host:
     - libblas
     - libcblas
+    - openblas
     - pip
     - python
     - meson-python
