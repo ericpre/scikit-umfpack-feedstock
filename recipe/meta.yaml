@@ -23,7 +23,9 @@ requirements:
   host:
     - libblas
     - libcblas
+    - pip
     - python
+    - meson-python
     - numpy
     - scipy
     - suitesparse
